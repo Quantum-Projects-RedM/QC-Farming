@@ -6,8 +6,8 @@ Welcome to the **QC-Farming** script for RedM! This script brings realistic farm
 
 ## 📦 Dependencies
 
-- [`rsg-core`](https://github.com/your-repo/rsg-core)  
-- [`rsg-target`](https://github.com/your-repo/rsg-target)  
+- [`rsg-core`](https://github.com/Rexshack-RedM/rsg-core)  
+- [`rsg-target`](https://github.com/Rexshack-RedM/rsg-target)  
 - [`ox_lib`](https://github.com/overextended/ox_lib)
 
 ---
