@@ -1,0 +1,10 @@
+    ['farmer'] = {
+            [1] = { name = 'carrotseed',    price = 0.10, amount = 100000,  info = {}, type = 'item', slot = 1, },
+            [2] = { name = 'cornseed',      price = 0.10, amount = 100000,  info = {}, type = 'item', slot = 2, },
+            [3] = { name = 'sugarseed',     price = 0.10, amount = 100000,  info = {}, type = 'item', slot = 3, },
+            [4] = { name = 'tomatoseed',    price = 0.10, amount = 100000,  info = {}, type = 'item', slot = 4, },
+            [5] = { name = 'broccoliseed',  price = 0.10, amount = 100000,  info = {}, type = 'item', slot = 5, },
+            [6] = { name = 'potatoseed',    price = 0.10, amount = 100000,  info = {}, type = 'item', slot = 6, },
+            [7] = { name = 'artichokeseed', price = 0.10, amount = 100000,  info = {}, type = 'item', slot = 7, },
+            [8] = { name = 'bucket',        price = 5,   amount = 10000,   info = {}, type = 'item', slot = 8, },
+    },
