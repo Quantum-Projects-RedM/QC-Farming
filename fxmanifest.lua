@@ -5,7 +5,7 @@ game 'rdr3'
 author 'Artmines & Qzip - Quantum Projects' 
 description 'Quantum Farming | Dev: Artmines & Qzip'
 quantum_discord 'https://discord.gg/kJ8ZrGM8TS'
-version '1.0.0'
+version '1.0.1'
 
 shared_scripts {
     '@ox_lib/init.lua',
