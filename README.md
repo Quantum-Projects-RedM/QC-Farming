@@ -4,7 +4,7 @@ Welcome to the **QC-Farming** script for RedM! This script brings realistic farm
 ---
 ### Need Support join Quantum!
 
-Discord: https://discord.gg/kJ8ZrGM8TS
+- Discord: https://discord.gg/kJ8ZrGM8TS
 ---
 
 ## 📦 Dependencies
