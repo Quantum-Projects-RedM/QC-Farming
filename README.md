@@ -1,7 +1,10 @@
 # 🌾 Farming Script for RedM (RSG Framework)
 
 Welcome to the **QC-Farming** script for RedM! This script brings realistic farming mechanics to your server, allowing players to plant, harvest, and manage crops using the **RSG Framework**.
+---
+### Need Support join Quantum!
 
+Discord: https://discord.gg/kJ8ZrGM8TS
 ---
 
 ## 📦 Dependencies
